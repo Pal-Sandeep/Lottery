@@ -1,2 +1,1 @@
-# hello-
-it's ok babe 
+lottery program using Solidity Smart Contracts.
